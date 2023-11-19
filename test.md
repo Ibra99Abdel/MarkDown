@@ -15,3 +15,10 @@ _for example, for instance, in fact, specifically, that is, to illustrate_
 
 [Visit ASU](https://edugate.asu.edu.jo/login/index.php):
 ![Markdown Logo](
+
+To read input in java, use `Scanner s = new Scanner();`
+The full source code could be
+    Scanner s=new Scanner(System.in);
+    int number=s.readInt();
+   
+
