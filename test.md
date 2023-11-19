@@ -20,5 +20,10 @@ To read input in java, use `Scanner s = new Scanner();`
 The full source code could be
     Scanner s=new Scanner(System.in);
     int number=s.readInt();
-   
+    
+   | Header 1 | Header 2 |
+   |---------|---------|
+   |Content 1| Content 2 |
+   -[x]Task1
+   -[]Task2
 
