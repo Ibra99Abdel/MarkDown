@@ -6,7 +6,7 @@ Paragraphs can contain many different kinds of information. A paragraph could co
 ### Heading 3
 arallel structures are created by constructing two or more phrases or sentences that have the same grammatical structure and use the same parts of speech. By creating parallel structures you make your sentences clearer and easier to read. In addition, repeating a pattern in a series of consecutive sentences helps your reader see the connections between ideas. In the paragraph above about scientists and the sense of sight, several sentences in the body of the paragraph have been constructed in a parallel way. The parallel structures (which have been emphasized) help the reader see that the paragraph is organized as a set of examples of a general statement.
 **I don’t wish to deny that the flattened, minuscule head of the large-bodied "stegosaurus" houses little brain from our subjective, top-heavy perspective, BUT I do wish to assert that we should not expect more of the beast. FIRST OF ALL, large animals have relatively smaller brains than related**
-
+--------------
 _for example, for instance, in fact, specifically, that is, to illustrate_
 1. item 1
 2.  item 2
@@ -14,7 +14,7 @@ _for example, for instance, in fact, specifically, that is, to illustrate_
 - Bullet 2
 
 [Visit ASU](https://edugate.asu.edu.jo/login/index.php):
-![Markdown Logo](
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/ar/8/82/ASU_Jordan_logo.PNG?20171111121555)
 
 To read input in java, use `Scanner s = new Scanner();`
 The full source code could be
@@ -23,7 +23,10 @@ The full source code could be
     
    | Header 1 | Header 2 |
    |---------|---------|
-   |Content 1| Content 2 |
-   -[x]Task1
-   -[]Task2
+   |Content 1| Content 2|
+
+   ---------------
+   - Task list:
+   - [x] Task1
+   - [ ] Task2
 
